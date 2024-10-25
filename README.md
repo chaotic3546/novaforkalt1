@@ -1,4 +1,4 @@
-
+THANKS TO THE CREATORS OF NOVAFORK AND THE ORIGINAL NOVA FOR THE ORIGINAL REPOSITORY! <3
 
 <p align="center">
   <strong>Nova</strong> – Your Gateway to Free Streaming
